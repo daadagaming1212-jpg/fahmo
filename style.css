@@ -1,0 +1,17 @@
+a:link{
+    color: rgb(218, 225, 11);
+}
+a:visited{
+    color: rgb(230, 20, 20);
+}
+a:hover{
+    color: rgb(33, 137, 178);
+}
+ul{
+  
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    
+}
